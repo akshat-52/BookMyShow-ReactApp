@@ -51,7 +51,7 @@ function Header
                                     Other
                                 </NavDropdown.Item>
                             </NavDropdown>
-                            <Button variant="danger" size="sm" style={{ margin: "3.5%" }}>Signin</Button>
+                            <Button variant="danger" size="sm" style={{ margin: "3.5%" }}>Sign in</Button>
                         </Nav>
 
 
