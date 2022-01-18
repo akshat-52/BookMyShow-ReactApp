@@ -10,7 +10,7 @@ function AllMoviesFetch() {
 
     useEffect(async () => {
         try {
-            const response = await axios.get('http://localhost:5000/movies');
+            const response = await axios.get('https://bookmyshow-akshat52.herokuapp.com/movies');
             console.log(response);
             setData(response.data);
         } catch (error) {
