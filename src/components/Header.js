@@ -68,7 +68,7 @@ function Header
                     <Nav>
                         <Nav.Link href="movies" style={{ color: "white" }}>Movies</Nav.Link>
                         <Nav.Link href="register" style={{ color: "white" }}>Registration</Nav.Link>
-                        <Nav.Link href="#action7" style={{ color: "white" }}>Stream</Nav.Link>
+                        <Nav.Link href="https://youtu.be/dQw4w9WgXcQ" style={{ color: "white" }}>Stream</Nav.Link>
                         <Nav.Link href="#action8" style={{ color: "white" }}>Events</Nav.Link>
                         <Nav.Link href="#action9" style={{ color: "white" }}>Plays</Nav.Link>
                         <Nav.Link href="#action10" style={{ color: "white" }}>Sports</Nav.Link>
